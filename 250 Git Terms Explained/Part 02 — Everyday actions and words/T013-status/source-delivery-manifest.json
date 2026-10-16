@@ -1,0 +1,82 @@
+{
+  "id": "T013",
+  "revision": "review-r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "duration_seconds": 46.766667,
+  "intended_export": "/Users/baswillemstijn/Movies/git/exports/Part 02 — Everyday actions and words/T013-status",
+  "approved_export_copied": false,
+  "files": [
+    {
+      "path": "renders/review-r1.mp4",
+      "bytes": 3541864,
+      "sha256": "a57298911f923abf7678f0c8dc88542a09540242a093c4dceec336117c4f9aa0"
+    },
+    {
+      "path": "publishing/PUBLISHING.md",
+      "bytes": 6187,
+      "sha256": "98bb32bc76d9e3b0589f16d630441a38a18dc95870dd1b6417bf62897575c4a3"
+    },
+    {
+      "path": "publishing/metadata.json",
+      "bytes": 4643,
+      "sha256": "658f87ef74e4072a49d87a58364d08b085f68c80f893b89d8503589d679c643e"
+    },
+    {
+      "path": "publishing/transcript.txt",
+      "bytes": 718,
+      "sha256": "449900ec2947b3508515166b59175ff54c286a43411db2e0309988cb01ac0789"
+    },
+    {
+      "path": "publishing/captions.en.srt",
+      "bytes": 2609,
+      "sha256": "3d6a25617a6e560d6632f8f9e7318b229f761d6a3c7376a153df38ae18e30885"
+    },
+    {
+      "path": "publishing/captions.en.vtt",
+      "bytes": 2458,
+      "sha256": "eacb1d4810e4b17b82da2992b25834419455c22eb6362c21cc16edab4ec21ca6"
+    },
+    {
+      "path": "publishing/covers/cover-vertical.jpg",
+      "bytes": 89218,
+      "sha256": "30158f14195765b56a766b278b630a797188a56225353ce7bc2690122c408e0f"
+    },
+    {
+      "path": "publishing/covers/cover-landscape.jpg",
+      "bytes": 57077,
+      "sha256": "5090fca4a7e2c12470c35c0249a4e513f66fa3e4dd144a9dc51f68efdf8694b4"
+    },
+    {
+      "path": "publishing/artwork/cover-vertical.html",
+      "bytes": 1222,
+      "sha256": "3123fdcd07b341b0425e5ed3d5ce95384c11a524121c03c3eb7ae96542e87a4c"
+    },
+    {
+      "path": "publishing/artwork/cover-landscape.html",
+      "bytes": 1220,
+      "sha256": "1078bce0096e025fd616529b7cb09e69b5087beea84481a00dfa3a5b69d249fb"
+    },
+    {
+      "path": "renders/review-x-r1.mp4",
+      "revision": "review-r1",
+      "bytes": 2074388,
+      "sha256": "f51315918e1314a287bc7cec8f754a847741463ef10a2d64cad2df1df998b83c",
+      "duration_seconds": 46.766667,
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "evidence/x-compatibility/verification.json",
+      "revision": "review-r1",
+      "bytes": 4242,
+      "sha256": "a1665a6210ac97e897871936815c1d64eb94260a66a23c693cd477e342f19ce3"
+    },
+    {
+      "path": "publishing/PLATFORM-NOTES.md",
+      "revision": "review-r1",
+      "bytes": 7471,
+      "sha256": "cc0c925364b8a086e0a57310352a8aa62e80b2a14a7a2c5f6431422571e1bd9f"
+    }
+  ],
+  "path_base": "project_root",
+  "x_compatibility_derivative": "renders/review-x-r1.mp4"
+}

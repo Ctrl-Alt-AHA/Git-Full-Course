@@ -1,0 +1,7 @@
+You're building a new search feature when an urgent bug needs attention. Git switch lets you leave that feature branch and work on an existing bug fix branch.
+
+Think of branches as different lines of development inside the same project. Switching makes the bug fix branch current, updating your working files and the staging area for that target.
+
+Your saved feature commits stay on the feature branch. Switching doesn't make a commit. Uncommitted changes can travel with you when they're compatible, so changing branches doesn't always mean starting clean.
+
+If switching would lose local changes, Git normally stops instead. Resolve that situation before moving on. The takeaway: switch chooses the branch you're working on, so check your context before making the next change.

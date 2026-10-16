@@ -1,0 +1,90 @@
+{
+  "id": "T012",
+  "revision": "r1",
+  "acceptance_status": "TECHNICAL_CHECKS_PASSED_AUDIO_REVIEW_UNVERIFIED",
+  "delivery_authorization": "User explicitly requested copying current end results to exports; export does not assert completed listening review.",
+  "project": "/Users/baswillemstijn/Movies/git/batches/Part 02 \u2014 Everyday actions and words/T012-initialize/videos/initialize",
+  "files": [
+    {
+      "filename": "T012-Initialize.mp4",
+      "duration_seconds": 52.333333,
+      "bytes": 3574066,
+      "sha256": "77b0ec0c62439c49917c0029fc194067b2af8d08a916e996b65354cb31e3691c",
+      "source": "/Users/baswillemstijn/Movies/git/batches/Part 02 \u2014 Everyday actions and words/T012-initialize/videos/initialize/renders/review-r1.mp4",
+      "copy_verified": true
+    },
+    {
+      "filename": "T012-Initialize-X.mp4",
+      "duration_seconds": 52.333333,
+      "bytes": 2143119,
+      "sha256": "d2e02ebd70f4fca45f7fd6fa59aee114803fb1ca8903ec60cc9c81e57699271c",
+      "source": "/Users/baswillemstijn/Movies/git/batches/Part 02 \u2014 Everyday actions and words/T012-initialize/videos/initialize/renders/review-x-r1.mp4",
+      "copy_verified": true
+    },
+    {
+      "filename": "publishing/PLATFORM-NOTES.md",
+      "bytes": 7471,
+      "sha256": "cc0c925364b8a086e0a57310352a8aa62e80b2a14a7a2c5f6431422571e1bd9f"
+    },
+    {
+      "filename": "publishing/PUBLISHING.md",
+      "bytes": 5872,
+      "sha256": "3f7114b361dd1af1c4dc19192b1dbde4ed8eeb14c98f67f49d3fd36d7ce374c6"
+    },
+    {
+      "filename": "publishing/artwork/cover-landscape-proof.png",
+      "bytes": 39627,
+      "sha256": "15e9ef3b7171a27c7008f0ab0158da89583d7177554ce2bd3fd97b40818c92da"
+    },
+    {
+      "filename": "publishing/artwork/cover-landscape.html",
+      "bytes": 1525,
+      "sha256": "e8f8f4655f0380c3760b24cb499ed0d4d64e6da503a0bde95d1c9566b8c046bf"
+    },
+    {
+      "filename": "publishing/artwork/cover-vertical-proof.png",
+      "bytes": 60071,
+      "sha256": "ffa615c8b876c7ee9657da534513f65f97b654c0d5aa361b38500d8eae607393"
+    },
+    {
+      "filename": "publishing/artwork/cover-vertical.html",
+      "bytes": 1528,
+      "sha256": "182313907dfdb42b3f9aef27c7a9aca42b9c276bf1f2fc3962350e7253b0b0e2"
+    },
+    {
+      "filename": "publishing/captions.en.srt",
+      "bytes": 2514,
+      "sha256": "ab160d9f124a3ef560cd7fa19dcf928f7d7a83d2a2ab5fa9b2617d62ec7cdbae"
+    },
+    {
+      "filename": "publishing/captions.en.vtt",
+      "bytes": 2378,
+      "sha256": "6f01255aceb0cfbbd0e4f7a6b689ff2c4152aa85e6e469b30f34f9e5fb9cb574"
+    },
+    {
+      "filename": "publishing/covers/cover-landscape.jpg",
+      "bytes": 56164,
+      "sha256": "930556330737f718838dc78b6ef414a2865409da551dd1ab52f8276aa5dac116"
+    },
+    {
+      "filename": "publishing/covers/cover-vertical.jpg",
+      "bytes": 89894,
+      "sha256": "d78b4fd0b134f085449907f1b4e3b115fac01b129bafaefc9264a2e30851d209"
+    },
+    {
+      "filename": "publishing/covers/video-frame-09s.jpg",
+      "bytes": 77730,
+      "sha256": "a9dd03a74804de24740f2f9ec4c7c925d6288383458e1f0b59d3f8e062c025f9"
+    },
+    {
+      "filename": "publishing/metadata.json",
+      "bytes": 4908,
+      "sha256": "e31ab888f358518f013d63cc2cd1285809332032ea9a5e7a82a5a6ce3a54298e"
+    },
+    {
+      "filename": "publishing/transcript.txt",
+      "bytes": 798,
+      "sha256": "1861f0d4f61aa22f0266a9f89bc40fa48f49b35837dece5fdcc254e4b5c5997d"
+    }
+  ]
+}

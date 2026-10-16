@@ -1,0 +1,9 @@
+Imagine your recipe website yesterday: a title, a menu, and a photo. Today, you change the title. When you record that change, what does Git remember?
+
+A snapshot records the project state at one point in history. A commit points to that snapshot: the tracked file versions chosen for that commit, including content that stayed the same.
+
+So the next snapshot describes the new title, the same menu, and the same photo. It is a complete recorded state, rather than just an edit list.
+
+This is a logical snapshot, not a screenshot or a fresh copy of your entire disk. Git can reuse unchanged content internally. Untracked files are outside that recorded state.
+
+Changes tell you what differs. A snapshot records what was there.

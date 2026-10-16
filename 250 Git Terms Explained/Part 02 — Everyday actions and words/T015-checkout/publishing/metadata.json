@@ -1,0 +1,83 @@
+{
+  "id": "T015",
+  "topic": "checkout",
+  "language": "en",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "takeaway": "Selection changes current position; restoration changes selected files.",
+  "titles": {
+    "recommended": "Git checkout: two different jobs",
+    "alternatives": [
+      "Selecting a version or restoring a file?",
+      "What checkout actually changes"
+    ]
+  },
+  "summary": "Git checkout can select a branch or commit, or restore selected files. Those forms have different effects; restoring can replace local edits.",
+  "platform_copy": {
+    "YouTube Shorts": {
+      "title": "Git checkout: two different jobs",
+      "description": "Git checkout can select a branch or commit, or restore selected files. Those forms have different effects; restoring can replace local edits.\n\nHave you ever wanted an older version of just one file?\n\nSource: https://git-scm.com/docs/git-checkout\nSynthetic Friendly Instructor narration; original local procedural music.",
+      "hashtags": [
+        "#Git",
+        "#Shorts"
+      ]
+    },
+    "TikTok": {
+      "caption": "Need one old file back, without leaving your branch? Checkout can restore selected files—or select a branch or commit. Different jobs, different effects. Restoring may replace local edits. Which job did you mean?",
+      "hashtags": [
+        "#Git",
+        "#LearnGit"
+      ]
+    },
+    "Instagram Reels": {
+      "caption": "Save this distinction for the next time you need an older version.\n\nRead an older release: selecting its commit changes your current position.\nRecover one earlier file: restoration keeps your branch in place and replaces selected content. An earlier-commit source also puts that content into staging.\n\nCheck local edits before restoring; they may be replaced. Have you needed a whole release, or just one file?",
+      "hashtags": [
+        "#Git",
+        "#Developer"
+      ]
+    },
+    "X": {
+      "post": "Git checkout covers two jobs: select a branch or commit, or restore selected files. Restoring a file can replace local edits. Know which effect you want before acting. #Git",
+      "character_count": 172
+    },
+    "Patreon": {
+      "title": "Git checkout: two different jobs",
+      "post": "Checkout is one name covering two different jobs. Selecting a branch changes your development context; selecting a commit directly gives a detached HEAD. Restoring a selected file keeps the current branch in place. When the source is an earlier commit, the restored content also enters staging. Restoration can replace local edits, so check what would be lost.\n\nTakeaway: selection changes your current position; restoration changes selected files.\n\nSource: https://git-scm.com/docs/git-checkout\n\nHave you ever wanted an older version of just one file?"
+    }
+  },
+  "sources": [
+    {
+      "title": "Official Git checkout documentation",
+      "url": "https://git-scm.com/docs/git-checkout"
+    }
+  ],
+  "covers": {
+    "vertical": "covers/cover-vertical.jpg",
+    "landscape": "covers/cover-landscape.jpg",
+    "description": "Checkout: two different jobs, with select/restore panels.",
+    "existing_frame_timestamp": 47.0,
+    "existing_frame_source": "../T015-Checkout.mp4"
+  },
+  "delivery_paths": {
+    "review_candidate": "../T015-Checkout.mp4",
+    "captions_srt": "captions.en.srt",
+    "captions_vtt": "captions.en.vtt",
+    "transcript": "transcript.txt"
+  },
+  "duration_seconds": 50.1,
+  "platform_derivatives": {
+    "X": {
+      "path": "../T015-Checkout-X.mp4",
+      "path_base": "publishing_directory",
+      "width": 720,
+      "height": 1280,
+      "duration_seconds": 50.1,
+      "bytes": 2143254,
+      "sha256": "aee635fbcf3f2d79d242b2eb6b13a96aeee478b0ca27d761285175564682a80b",
+      "audio": "AAC stream copied identically from review master",
+      "reason": "Official X web portrait height ceiling 1200x1900; whole-frame scale, no crop/retime",
+      "source": "https://help.x.com/es/using-x/x-videos",
+      "status": "REVIEW_PENDING_AUDIO"
+    }
+  }
+}

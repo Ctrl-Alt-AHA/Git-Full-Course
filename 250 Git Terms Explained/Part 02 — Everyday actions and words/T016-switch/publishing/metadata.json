@@ -1,0 +1,66 @@
+{
+  "id": "T016",
+  "topic": "switch",
+  "language": "en",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "takeaway": "Switch chooses the branch you are working on; compatible local edits may follow, while Git normally refuses a switch that would lose them.",
+  "titles": [
+    "Git switch: change your working context",
+    "Pause a feature, switch to a bug fix",
+    "What changes when you switch branches?"
+  ],
+  "summary": "Switch chooses the branch you are working on; compatible local edits may follow, while Git normally refuses a switch that would lose them.",
+  "platforms": {
+    "youtube": {
+      "title": "Git switch: change your working context",
+      "description": "Switch chooses the branch you are working on; compatible local edits may follow, while Git normally refuses a switch that would lose them.\n\nhttps://git-scm.com/docs/git-switch\n\nWhat helps you remember your current branch?\n#Git #Shorts"
+    },
+    "tiktok": {
+      "caption": "Switching tasks? Check which branch is current\u2014and which local edits may follow. #Git #LearnGit",
+      "cover_frame_seconds": 8
+    },
+    "instagram": {
+      "caption": "One project, different lines of development. Switching selects your working branch. Compatible local edits may follow. What helps you keep track? #Git #DeveloperLearning"
+    },
+    "x": {
+      "post": "An urgent bug interrupts your feature work. Git switch changes your current branch, and compatible uncommitted edits may follow. Here's the context to check before your next change. #Git",
+      "character_count": 186
+    },
+    "patreon": {
+      "title": "Git switch: change your working context",
+      "post": "An urgent bug can interrupt work on a feature. Git switch selects another development branch in the same project and updates the working files and staging area for that target. Your recorded feature commits remain on their branch. Switching creates no commit by itself.\n\nCompatible uncommitted edits can follow you. If switching would lose local changes, Git normally stops, giving you a chance to resolve the situation.\n\nTakeaway: Switch chooses the branch you are working on; compatible local edits may follow, while Git normally refuses a switch that would lose them.\n\nSource: https://git-scm.com/docs/git-switch\n\nWhat helps you remember which branch you are working on?"
+    }
+  },
+  "hashtags": [
+    "Git",
+    "LearnGit"
+  ],
+  "sources": [
+    "https://git-scm.com/docs/git-switch",
+    "https://help.x.com/es/using-x/x-videos"
+  ],
+  "cover": {
+    "vertical": "covers/cover-vertical.jpg",
+    "landscape": "covers/cover-landscape.jpg",
+    "existing_frame_seconds": 8,
+    "description": "Search feature and bug fix development lanes, with the current marker changing lanes.",
+    "existing_frame_verified": true
+  },
+  "delivery": {
+    "candidate": "../T016-Switch.mp4",
+    "subtitles": [
+      "captions.en.srt",
+      "captions.en.vtt"
+    ],
+    "transcript": "transcript.txt",
+    "x_candidate": "../T016-Switch-X.mp4",
+    "x_compatibility": {
+      "dimensions": "720x1280",
+      "duration_seconds": 49.466667,
+      "audio": "AAC bit-identical to master",
+      "reason": "X web portrait FAQ 1200x1900 maximum; https://help.x.com/es/using-x/x-videos",
+      "review_status": "REVIEW_PENDING_AUDIO"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "T017",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "intended_export": "/Users/baswillemstijn/Movies/git/exports/Part 02 \u2014 Everyday actions and words/T017-log",
+  "export_performed": false,
+  "canonical_video_created": false,
+  "files": [
+    {
+      "path": "renders/review-r1.mp4",
+      "revision": "r1",
+      "duration_s": 49.133333,
+      "bytes": 3331358,
+      "sha256": "55d6c50c2d00a8114622e0a9557622a8df1335a1e3829463320bdb20353cf945",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "renders/review-x-r1.mp4",
+      "revision": "r1",
+      "duration_s": 49.133333,
+      "bytes": 2012072,
+      "sha256": "0dc85cee4198c2489cec6ddac916e77bd1ad12c3ee5194b0bc2b45e779abd5e6",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "publishing/PUBLISHING.md",
+      "revision": "r1",
+      "duration_s": null,
+      "bytes": 5350,
+      "sha256": "7066928267984fbead28dba0cf012d01bdd6169b9e3d5441760f5a8bdb0533e7",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "publishing/artwork/cover-landscape-proof.png",
+      "revision": "r1",
+      "duration_s": null,
+      "bytes": 36985,
+      "sha256": "f29d82cc4cef3fcc986b941f2ec0ae4370ff0438d6ef14ebecaa2418d7ce1fd7",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "publishing/artwork/cover-landscape.html",
+      "revision": "r1",
+      "duration_s": null,
+      "bytes": 1078,
+      "sha256": "240f57629380836db99936bf774e1d43603dfde8a16910137fefde78a9179c70",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "publishing/artwork/cover-vertical-proof.png",
+      "revision": "r1",
+      "duration_s": null,
+      "bytes": 51006,
+      "sha256": "81f90d3e33f7edd84556e105f776a933b69eb00afb1b70ea14cd20170ebf14b7",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "publishing/artwork/cover-vertical.html",
+      "revision": "r1",
+      "duration_s": null,
+      "bytes": 1119,
+      "sha256": "c09e4f6944a7d1697d41abbb67af83fad46ceabacf446dbe5314e1404978efcf",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "publishing/captions.en.srt",
+      "revision": "r1",
+      "duration_s": null,
+      "bytes": 2455,
+      "sha256": "2a1094f7fee404dbda203e30430554c0ae249652ded76b9cb536603f618494ce",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "publishing/captions.en.vtt",
+      "revision": "r1",
+      "duration_s": null,
+      "bytes": 2319,
+      "sha256": "8b0dc1435de89854f925496fa8045c4ff13c4a131b9c07eaad7050b765ae58fa",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "publishing/covers/cover-landscape.jpg",
+      "revision": "r1",
+      "duration_s": null,
+      "bytes": 70881,
+      "sha256": "39ef866729f334fd7ffbbd4550bea5f6c36e40b7cf71099f8ede9987885925fd",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "publishing/covers/cover-vertical.jpg",
+      "revision": "r1",
+      "duration_s": null,
+      "bytes": 87621,
+      "sha256": "f2f24436f840e70a7853f20dff26838d7e36b3c76fe29ac83d59c939e0e19bd7",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "publishing/metadata.json",
+      "revision": "r1",
+      "duration_s": null,
+      "bytes": 5021,
+      "sha256": "58d92fea4addf58ac536d62227e6a22a0cdd9185020bdb819fc910d051dd2f7c",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "publishing/transcript.txt",
+      "revision": "r1",
+      "duration_s": null,
+      "bytes": 735,
+      "sha256": "d42ea1f70e76b7d89728907ee24d52e9d36039855494649e672f125f105bda80",
+      "status": "REVIEW_PENDING_AUDIO"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "T018",
+  "topic": "Show",
+  "language": "en",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "takeaway": "Locate the commit, then inspect its message and recorded changes together.",
+  "titles": {
+    "recommended": "Git show: open one commit’s details",
+    "alternatives": [
+      "What is inside a Git commit?",
+      "Find the commit. Read the details."
+    ]
+  },
+  "summary": "Inspect one selected commit’s message, metadata and recorded file changes.",
+  "platforms": {
+    "youtube": {
+      "title": "Git show: open one commit’s details",
+      "description": "Found a likely commit behind a change? Inspect its message, metadata and recorded file changes together. A hypothetical checkout-button example explains the detail view.\nSource: https://git-scm.com/docs/git-show\nSynthetic Friendly Instructor narration; original procedural music.",
+      "hashtags": [
+        "#Git",
+        "#Shorts"
+      ]
+    },
+    "tiktok": {
+      "caption": "Found the commit? Look inside it. Git show brings the message and recorded changes together. Which change would you investigate?",
+      "hashtags": [
+        "#Git",
+        "#DeveloperLearning"
+      ],
+      "cover_frame_seconds": 9.2
+    },
+    "instagram": {
+      "caption": "One commit, a closer look. A message supplies context; the patch describes recorded file changes. Keep both in view when investigating a change. What would you inspect first?",
+      "hashtags": [
+        "#Git",
+        "#LearnGit"
+      ],
+      "cover_frame_seconds": 9.2
+    },
+    "x": {
+      "post": "Found a likely commit behind a change? Git show opens its details: message, metadata and recorded file changes. Read them together; the message alone cannot prove every intention or consequence. #Git"
+    },
+    "patreon": {
+      "title": "A closer look at one Git commit",
+      "post": "A history overview helps you locate a likely commit. Git show lets you inspect the selected record more closely: its message, metadata and textual diff.\n\nOur checkout-button example is hypothetical. The before-and-after illustration summarizes an idea; it is not evidence of a real application’s behavior. A patch describes the recorded file changes, while the message offers the author’s written context. Neither proves every intention or runtime consequence. Inspecting the record does not edit your current files.\n\nTakeaway: locate the commit, then inspect its details and read the message alongside the change.\n\nSource: https://git-scm.com/docs/git-show\n\nWhich recorded change would you investigate first?\n\nNarrator: synthetic Friendly Instructor generated locally with VoiceStudio/VoxCPM2. Music: original procedural focused bed."
+    }
+  },
+  "sources": [
+    "https://git-scm.com/docs/git-show",
+    "https://support.google.com/youtube/answer/12779649?hl=en",
+    "https://support.google.com/youtube/answer/72431?hl=en",
+    "https://support.google.com/youtube/answer/14328491?hl=en",
+    "https://support.tiktok.com/en/using-tiktok/creating-videos/editing-posting-and-deleting?lang=en",
+    "https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content",
+    "https://help.x.com/en/using-x/x-videos",
+    "https://help.x.com/es/using-x/x-videos",
+    "https://support.patreon.com/hc/en-us/articles/6598555214477-Patreon-Video-overview",
+    "https://support.patreon.com/hc/en-us/articles/360038982432-How-do-I-size-images-for-Patreon-posts"
+  ],
+  "covers": {
+    "vertical": "covers/cover-vertical.jpg",
+    "landscape": "covers/cover-landscape.jpg",
+    "existing_frame_seconds": 9.2,
+    "description": "One selected commit opens into its message and recorded change.",
+    "existing_frame_verified_from_encoded_master": true
+  },
+  "delivery": {
+    "master": "../T018-Show.mp4",
+    "x": "../T018-Show-X.mp4",
+    "srt": "captions.en.srt",
+    "vtt": "captions.en.vtt"
+  },
+  "provenance": {
+    "narration": "Local synthetic Friendly Instructor, VoiceStudio0.5.6/VoxCPM2, profile4e2d8ba3; not user voice",
+    "music": "Original local procedural focused bed; no AI music model",
+    "captions": "Local Parakeet word alignment; normalized script token match"
+  },
+  "platform_verification": {
+    "date": "2026-10-16",
+    "shared_source": "Part02 PLATFORM-NOTES.md",
+    "account_uploads": "UNTESTED",
+    "instagram_official_specs": "UNVERIFIED_FETCH_FAILED",
+    "x_derivative_reason": "Official indexed Spanish FAQ portrait1900height; live parser omits answers"
+  },
+  "media_verification": {
+    "master": {
+      "path": "T018-Show.mp4",
+      "duration_seconds": 50.5,
+      "bytes": 3379845,
+      "sha256": "922df3e1106bced316eef1364ffd95a2d4ea702a86e07b261d52ea0556ba26dc",
+      "faststart": true,
+      "full_decode_exit_code": 0
+    },
+    "x": {
+      "derivative": "T018-Show-X.mp4",
+      "duration_seconds": 50.5,
+      "bytes": 2090764,
+      "sha256": "6d15cd27b5f3448fecdf2739a820fb82ecea1eaf86e700f4c6e06e9759b9f92a",
+      "faststart": true,
+      "full_decode_exit_code": 0,
+      "aac_stream_copy_identical": true,
+      "aac_adts_sha256": "11086dd010fa0f657ab1ffa6cdd64f6ca42686179d8145706aa207b2de691694"
+    },
+    "status": "REVIEW_PENDING_AUDIO"
+  }
+}

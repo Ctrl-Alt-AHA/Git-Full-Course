@@ -1,0 +1,57 @@
+{
+  "id": "T020",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "approved": false,
+  "intended_export": "/Users/baswillemstijn/Movies/git/exports/Part 02 \u2014 Everyday actions and words/T020-move",
+  "files": [
+    {
+      "path": "renders/review-x-r1.mp4",
+      "bytes": 1937669,
+      "sha256": "bbb18b69367b68dd4bfafd2164a539ab2d0ce06549aef88f432f7eb055b90907",
+      "duration_seconds": 50.0
+    },
+    {
+      "path": "renders/review-r1.mp4",
+      "bytes": 3021399,
+      "sha256": "459c6f1f7557767563592dacdafec652f9c1f318304dc7660ea9894419422935",
+      "duration_seconds": 50.0
+    },
+    {
+      "path": "publishing/covers/cover-landscape.jpg",
+      "bytes": 55193,
+      "sha256": "a67b517c7c124bb2348649c41f59e871a2cc7240aca263271bf6475ac1053004"
+    },
+    {
+      "path": "publishing/covers/cover-vertical.jpg",
+      "bytes": 78112,
+      "sha256": "bb20cb6da85d57939086144931ca402d8d0fe744748b2b5082017c634384156e"
+    },
+    {
+      "path": "publishing/captions.en.srt",
+      "bytes": 2584,
+      "sha256": "6b170ec063e9cf1e531396cb7c796c06aed821ea572f370f56cbe8f3e2184c2b"
+    },
+    {
+      "path": "publishing/captions.en.vtt",
+      "bytes": 2436,
+      "sha256": "21c6a8bdab8ecf1cdaef187583a376ce5eafdb361930f8088c8bd38ccfa56d66"
+    },
+    {
+      "path": "publishing/transcript.txt",
+      "bytes": 728,
+      "sha256": "c580b94f01ecf9f891d4db84a801cec677e0ff1b01126967d93cb7abadc904c7"
+    },
+    {
+      "path": "publishing/PUBLISHING.md",
+      "bytes": 4442,
+      "sha256": "598e7e125d5a605ceeaeb0b7e37a6f43649c47e9cc5ae284ce1899803657cd3f"
+    },
+    {
+      "path": "publishing/metadata.json",
+      "bytes": 4129,
+      "sha256": "914add577bfe55a892f9581ad79f652148abc845a400b0dbcd27847fae7fd0e1"
+    }
+  ],
+  "unresolved_gate": "Actual audible/full playback review has not occurred; no canonical video or approved export."
+}

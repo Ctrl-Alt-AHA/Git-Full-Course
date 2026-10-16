@@ -1,0 +1,7 @@
+When did the favorites button arrive? Your project has weeks of changes. Git log gives you a history overview, so you can find the commit connected to that feature.
+
+Think of each entry as a signpost: a commit identity, an author, a date, and a message. Those messages help you scan the story and choose where to investigate.
+
+A graph adds the family connections. Lines link commits to their parents, showing where development split and joined. The gaps are not a clock, and separate lanes are not an execution schedule.
+
+By default, the history starts from your current commit and follows its ancestors. A separate, unmerged branch is not automatically included. Use the overview to find your place, then inspect the relevant commit.

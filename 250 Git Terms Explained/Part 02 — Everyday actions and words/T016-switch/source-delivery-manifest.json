@@ -1,0 +1,75 @@
+{
+  "id": "T016",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "duration_seconds": 49.466667,
+  "intended_export": "/Users/baswillemstijn/Movies/git/exports/Part 02 \u2014 Everyday actions and words/T016-switch",
+  "export_performed": false,
+  "artifacts": [
+    {
+      "path": "renders/review-r1.mp4",
+      "bytes": 3459417,
+      "sha256": "2c5f3522ea3166a86ef754d71edb4e326fc4c4e4a72565bb137c53ee70369298"
+    },
+    {
+      "path": "renders/review-x-r1.mp4",
+      "bytes": 2063973,
+      "sha256": "6683f73b2152633ae8eb68f3751249a754d41c1e1277a687bc68f2bb4c6c56ec"
+    },
+    {
+      "path": "publishing/transcript.txt",
+      "bytes": 779,
+      "sha256": "684cb2239d2480d4a238db0e9956534de3eab08250a35130df7e0850bd495c50"
+    },
+    {
+      "path": "publishing/PUBLISHING.md",
+      "bytes": 4197,
+      "sha256": "09babf3c179c17818929be28ecf3e494bae8bcc298a959f78da9b72221de1e14"
+    },
+    {
+      "path": "publishing/metadata.json",
+      "bytes": 3325,
+      "sha256": "6994b33093fa9e74a94b2c2e0c63e69b59bd45e8f7c78eb5fec5288850a57dcf"
+    },
+    {
+      "path": "publishing/captions.en.srt",
+      "bytes": 2500,
+      "sha256": "008c7f00a8acb33f1878b321444431e14b29a49cd1093fa0333c04f4c5acfe2c"
+    },
+    {
+      "path": "publishing/captions.en.vtt",
+      "bytes": 2364,
+      "sha256": "a57719675849e43b732d71e117c0fdb79dbc37c390b9be3c0de46dc311fa947d"
+    },
+    {
+      "path": "publishing/artwork/cover-landscape-proof.png",
+      "bytes": 47111,
+      "sha256": "fb3845bc7ea1135f2a816482001d953b939b300bbf4d886005b3629b766b0338"
+    },
+    {
+      "path": "publishing/artwork/cover-vertical.html",
+      "bytes": 1144,
+      "sha256": "ca7a07cbc5735551e6d6d5b06ed0618b9a352e3bb9216b8ff6b2206d20a8a7bc"
+    },
+    {
+      "path": "publishing/artwork/cover-landscape.html",
+      "bytes": 1140,
+      "sha256": "d1052262db109a9060cc73097610bde4e6385870c6d3b3481b184fccef421ba5"
+    },
+    {
+      "path": "publishing/artwork/cover-vertical-proof.png",
+      "bytes": 68123,
+      "sha256": "47a4c27bed3c57411804fe3dd1022737ac60a56669310ba0d422f3fb5dd01326"
+    },
+    {
+      "path": "publishing/covers/cover-landscape.jpg",
+      "bytes": 69716,
+      "sha256": "ec467d2a1fe03e68cf8989c322db26ce229b7d8c89f7e23eba5d843b2e6768de"
+    },
+    {
+      "path": "publishing/covers/cover-vertical.jpg",
+      "bytes": 106260,
+      "sha256": "6c42d90daee6deb63957232fc0b62dcfe31db484d0786aeaebcbcfd5ca5cf37d"
+    }
+  ]
+}

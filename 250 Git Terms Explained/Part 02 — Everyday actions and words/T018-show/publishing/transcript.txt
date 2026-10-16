@@ -1,0 +1,7 @@
+The checkout button behaves differently today. You have found a likely commit in the history. Now open that one record with Git show to inspect what it actually contains.
+
+Think of history as a shelf of records. Show opens a selected record for a closer look. For a commit, you can inspect its message, author, date, and recorded changes.
+
+Imagine a commit that makes the button wait for payment confirmation. Its message gives context; its patch shows the recorded file changes. This before-and-after diagram illustrates the idea. Inspecting the commit does not edit your current files.
+
+Read the message alongside the change. A message gives context, but it does not prove every intention or consequence. Find the commit in history, then use show to inspect the details.

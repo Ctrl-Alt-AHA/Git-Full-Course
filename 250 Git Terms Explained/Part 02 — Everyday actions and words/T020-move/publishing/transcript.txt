@@ -1,0 +1,7 @@
+Your project has grown, and the guide belongs with the documentation. Moving it should change where people find it, while keeping the same useful content.
+
+The move command is a convenience for that reorganization. It moves the file to its new path and stages the result. The move still needs a commit.
+
+Here is the subtle part: it does not save a special, permanent rename event. When comparing snapshots, it can recognize a rename from matching or similar content.
+
+So think of the result: the old path is gone, the new path contains the guide, and that change is staged. A rename label describes the comparison; a commit records the prepared snapshot. Content similarity and comparison settings can affect that rename label.

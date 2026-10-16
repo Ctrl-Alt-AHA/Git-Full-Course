@@ -1,0 +1,75 @@
+{
+  "id": "T011",
+  "revision": "r2",
+  "acceptance_status": "TECHNICAL_CHECKS_PASSED_AUDIO_REVIEW_UNVERIFIED",
+  "delivery_authorization": "User explicitly requested copying current end results to exports; export does not assert completed listening review.",
+  "project": "/Users/baswillemstijn/Movies/git/batches/Part 02 \u2014 Everyday actions and words/T011-snapshot/videos/snapshot",
+  "files": [
+    {
+      "filename": "T011-Snapshot.mp4",
+      "duration_seconds": 46.5,
+      "bytes": 4215640,
+      "sha256": "2156cadb49a130129133d65808e25a8e8eb729e1091865d6718fcbdb9389d046",
+      "source": "/Users/baswillemstijn/Movies/git/batches/Part 02 \u2014 Everyday actions and words/T011-snapshot/videos/snapshot/renders/review-r2.mp4",
+      "copy_verified": true
+    },
+    {
+      "filename": "T011-Snapshot-X.mp4",
+      "duration_seconds": 46.5,
+      "bytes": 2275345,
+      "sha256": "57af13be267ca34d9dd4c0d1a8d6204fff80452b7ddeb14460d86c04758ab00d",
+      "source": "/Users/baswillemstijn/Movies/git/batches/Part 02 \u2014 Everyday actions and words/T011-snapshot/videos/snapshot/renders/review-x-r2.mp4",
+      "copy_verified": true
+    },
+    {
+      "filename": "publishing/PLATFORM-NOTES.md",
+      "bytes": 7471,
+      "sha256": "cc0c925364b8a086e0a57310352a8aa62e80b2a14a7a2c5f6431422571e1bd9f"
+    },
+    {
+      "filename": "publishing/PUBLISHING.md",
+      "bytes": 6431,
+      "sha256": "8e9d387164914a0c11b4efa2489f3438de299437191db608e67dffbaa418ce78"
+    },
+    {
+      "filename": "publishing/artwork/cover-landscape.html",
+      "bytes": 1306,
+      "sha256": "beedd1ceab9eea32837425c0ec1af66739e318d93512aba4cf92edf4a44523a7"
+    },
+    {
+      "filename": "publishing/artwork/cover-vertical.html",
+      "bytes": 1304,
+      "sha256": "39a4f2b56fc2c3dc57c7cd7f268cb10dde7c0a36a709e7672378cc51dcfad279"
+    },
+    {
+      "filename": "publishing/captions.en.srt",
+      "bytes": 2514,
+      "sha256": "9786cbfd84dd9cd07e254a90b79697cf104e12224425b1e96a3ecb9c6cad0ff2"
+    },
+    {
+      "filename": "publishing/captions.en.vtt",
+      "bytes": 2372,
+      "sha256": "5b4419c11757fc2a2408b887e4bc518fac615edb7c17b17797d0fd2b38ed6d77"
+    },
+    {
+      "filename": "publishing/covers/cover-landscape.jpg",
+      "bytes": 84745,
+      "sha256": "cdc0471a59f0a87bbc166bb71c95e9e06e0a2ecb92107032ea001ff490de871c"
+    },
+    {
+      "filename": "publishing/covers/cover-vertical.jpg",
+      "bytes": 110357,
+      "sha256": "f9e6bcfb1e49dcaa00c604eefc99930bdbb9713ee9c8402c0fb81313f2f7ad78"
+    },
+    {
+      "filename": "publishing/metadata.json",
+      "bytes": 5871,
+      "sha256": "f73dd490216dab4570777408500c854eb2448ff312aa3bbe63b063ef5d387c66"
+    },
+    {
+      "filename": "publishing/transcript.txt",
+      "bytes": 727,
+      "sha256": "0029f715c76e05450824257aeecd01862ce7e05662d6ab8a5b30c80d296bd55b"
+    }
+  ]
+}

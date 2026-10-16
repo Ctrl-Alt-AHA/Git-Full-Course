@@ -1,0 +1,81 @@
+{
+  "id": "T020",
+  "topic": "Move (git mv)",
+  "language": "en",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "takeaway": "git mv stages the new path/content result; a rename label is inferred when comparing snapshots.",
+  "titles": {
+    "recommended": "Moving files in Git: new path, staged result",
+    "alternatives": [
+      "What a Git rename really means",
+      "Move a guide, understand the snapshot"
+    ]
+  },
+  "summary": "Reorganize a guide into documentation while understanding staging and inferred rename labels.",
+  "platforms": {
+    "youtube": {
+      "title": "Moving files in Git: new path, staged result",
+      "description": "Move a guide into documentation and understand what Git prepares. A rename label comes from comparing content; the move still needs a commit.\n\nhttps://git-scm.com/docs/git-mv\nhttps://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository\nhttps://git-scm.com/docs/git-diff\n\n#Git #Shorts"
+    },
+    "tiktok": {
+      "caption": "New folder, same useful guide. Git\u2019s move command stages the path change, while a rename label is inferred from content. Where would your guide belong? #Git #LearnGit"
+    },
+    "instagram": {
+      "caption": "A better home for your guide: move it into docs, then understand the staged result. Git infers rename labels when it compares content. What would you reorganize? #Git #DeveloperLearning"
+    },
+    "x": {
+      "post": "A Git rename is a comparison result. git mv moves the path and stages the change; it still needs a commit. Git recognizes renames from matching or similar content. #Git",
+      "character_count": 168
+    },
+    "patreon": {
+      "title": "Moving a file: paths, content, and rename labels",
+      "body": "A guide can outgrow the project\u2019s top folder and belong under documentation. Git\u2019s move command handles the path change and stages its result. A commit is still a separate step.\n\nGit does not store a special permanent rename event. A comparison can infer that a missing old path and a new path represent a rename by comparing their contents. Similarity and comparison settings affect that label.\n\nTakeaway: think in paths and content prepared for the next snapshot. The rename label describes a comparison.\n\nWhere would you reorganize a guide in your own project?\n\nSources:\nhttps://git-scm.com/docs/git-mv\nhttps://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository\nhttps://git-scm.com/docs/git-diff"
+    }
+  },
+  "hashtags": [
+    "Git",
+    "LearnGit",
+    "Shorts"
+  ],
+  "sources": [
+    "https://git-scm.com/docs/git-mv",
+    "https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository",
+    "https://git-scm.com/docs/git-diff"
+  ],
+  "covers": {
+    "vertical": "publishing/covers/cover-vertical.jpg",
+    "landscape": "publishing/covers/cover-landscape.jpg",
+    "description": "Recomposed new path / same guide artwork",
+    "existing_frame_timestamp_seconds": 30,
+    "existing_frame_note": "Existing encoded master frame at00:30.000, comparison diagram fully visible; no inserted thumbnail frame."
+  },
+  "delivery_paths": {
+    "master": "T020-Move.mp4",
+    "x": "T020-Move-X.mp4",
+    "srt": "publishing/captions.en.srt",
+    "vtt": "publishing/captions.en.vtt",
+    "transcript": "publishing/transcript.txt"
+  },
+  "intended_export": "/Users/baswillemstijn/Movies/git/exports/Part 02 \u2014 Everyday actions and words/T020-move",
+  "audio_review": "PENDING_ACTUAL_LISTENING",
+  "candidate_files": [
+    {
+      "path": "T020-Move.mp4",
+      "duration_seconds": 50.0,
+      "bytes": 3021399,
+      "sha256": "459c6f1f7557767563592dacdafec652f9c1f318304dc7660ea9894419422935"
+    },
+    {
+      "path": "T020-Move-X.mp4",
+      "duration_seconds": 50.0,
+      "bytes": 1937669,
+      "sha256": "bbb18b69367b68dd4bfafd2164a539ab2d0ce06549aef88f432f7eb055b90907"
+    }
+  ],
+  "x_compatibility": {
+    "aac_stream_copy_identical": true,
+    "whole_frame_scale": "1080x1920 to720x1280;no crop or retiming",
+    "evidence": "evidence/x-compatibility/verification.json"
+  }
+}

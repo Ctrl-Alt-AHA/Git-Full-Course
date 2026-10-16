@@ -1,0 +1,88 @@
+{
+  "id": "T018",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "intended_export_location": "/Users/baswillemstijn/Movies/git/exports/Part 02 — Everyday actions and words/T018-show",
+  "export_performed": false,
+  "files": [
+    {
+      "filename": "renders/review-r1.mp4",
+      "revision": "r1",
+      "bytes": 3379845,
+      "sha256": "922df3e1106bced316eef1364ffd95a2d4ea702a86e07b261d52ea0556ba26dc",
+      "status": "REVIEW_PENDING_AUDIO",
+      "duration_seconds": 50.5
+    },
+    {
+      "filename": "renders/review-x-r1.mp4",
+      "revision": "r1",
+      "bytes": 2090764,
+      "sha256": "6d15cd27b5f3448fecdf2739a820fb82ecea1eaf86e700f4c6e06e9759b9f92a",
+      "status": "REVIEW_PENDING_AUDIO",
+      "duration_seconds": 50.5
+    },
+    {
+      "filename": "publishing/PUBLISHING.md",
+      "revision": "r1",
+      "bytes": 5312,
+      "sha256": "56e622699323fba44c5fdfd4a2922c3f31ecb5a687f7979f8b02187ba934c23d",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "filename": "publishing/artwork/cover-landscape.html",
+      "revision": "r1",
+      "bytes": 981,
+      "sha256": "a1a7876c95b94a21c049c681604a94e8d4e58dd04ec9da90c0c682b7e86c3dcb",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "filename": "publishing/artwork/cover-vertical.html",
+      "revision": "r1",
+      "bytes": 988,
+      "sha256": "0f7d8da69079f5355f5fa19e3923888c6cedcef61f9cf935dfe7ccd68c352d52",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "filename": "publishing/captions.en.srt",
+      "revision": "r1",
+      "bytes": 2766,
+      "sha256": "93404a997985f6cf773f67ea4d71e7cdfbb438100751c949c73c2dddfe5e3a56",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "filename": "publishing/captions.en.vtt",
+      "revision": "r1",
+      "bytes": 2606,
+      "sha256": "f7af2830a268b98acb5380328e17f26c3154d3b0a7357d5a836ce63dad67c355",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "filename": "publishing/covers/cover-landscape.jpg",
+      "revision": "r1",
+      "bytes": 46379,
+      "sha256": "aeb46c6d940c8d9499f9a9ded5c88f409bb6397de300f95c5ce0f71b621636db",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "filename": "publishing/covers/cover-vertical.jpg",
+      "revision": "r1",
+      "bytes": 57310,
+      "sha256": "8bcd4281f45cd6dc8cd31080fd0fbd01aeecfaa0af9b9f2633b6651f99101916",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "filename": "publishing/metadata.json",
+      "revision": "r1",
+      "bytes": 5224,
+      "sha256": "80d49fed43287bba0525d85d8e1257d8f3d1dc64fe2bf97c332c441248df4717",
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "filename": "publishing/transcript.txt",
+      "revision": "r1",
+      "bytes": 773,
+      "sha256": "ddf454f0724f5a44a9452d913e502f5063eb13d21f3c14ada0a27384a032fddc",
+      "status": "REVIEW_PENDING_AUDIO"
+    }
+  ]
+}

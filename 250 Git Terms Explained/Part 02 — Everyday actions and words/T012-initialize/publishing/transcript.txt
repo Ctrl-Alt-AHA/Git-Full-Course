@@ -1,0 +1,9 @@
+Your project folder can have a place for history, even before you save its first version. That is what initializing a Git repository prepares.
+
+Imagine a volunteer club newsletter: a draft, photos, and notes in one folder. You can initialize that existing folder, or start with a new one.
+
+Git adds its own repository information, usually inside a hidden folder called dot Git. This gives the project local infrastructure for tracking changes and storing recorded history.
+
+But initialization does not create your first commit. Existing files are not automatically staged or committed, and nothing is uploaded just because you initialized the folder.
+
+Think of it as adding an empty history shelf beside your work. The repository is ready; the history begins when you deliberately record a commit.

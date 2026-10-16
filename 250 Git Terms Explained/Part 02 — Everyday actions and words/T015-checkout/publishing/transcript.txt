@@ -1,0 +1,7 @@
+Need to read an older release, or recover one earlier file? Git checkout can do both. The name covers two different jobs, so first decide what you want to change.
+
+Selecting a branch changes your current development context. Selecting an older commit lets you inspect that recorded version directly. Git calls that detached HEAD: your current position points to the commit, rather than a branch.
+
+Restoring one file is different. Your branch stays where it is. You bring back that file's content; when the source is an earlier commit, that content also enters the staging area.
+
+Restoring can replace local edits, so check what you would lose. Remember the distinction: selecting changes your current position; restoring changes selected files. Same checkout name, different effects.

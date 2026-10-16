@@ -1,0 +1,78 @@
+{
+  "id": "T017",
+  "topic": "Log",
+  "language": "en",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "takeaway": "Use the history overview and parent connections to locate a relevant commit.",
+  "titles": {
+    "recommended": "When did that feature arrive? Git log explained",
+    "alternatives": [
+      "Git log: find your place in history",
+      "The map behind your project’s changes"
+    ]
+  },
+  "summary": "Git log is a history overview; graph edges show ancestry, and default selection follows the current commit’s ancestors.",
+  "platforms": {
+    "YouTube Shorts": {
+      "title": "When did that feature arrive? Git log explained",
+      "description": "Find your place in project history. Git log gives you a commit overview; its graph adds parent relationships. By default, selected history follows the current commit’s ancestors. A separate unmerged branch is not automatically included.\n\nSource: https://git-scm.com/docs/git-log\nSynthetic Friendly Instructor narration; original local procedural music.\n\nWhat feature would you trace first?",
+      "hashtags": [
+        "Git",
+        "Shorts"
+      ]
+    },
+    "TikTok": {
+      "caption": "That favorites button had to arrive somewhere. Read the history signposts, then follow the parent connections. Graph spacing is not elapsed time. Which feature would you trace?",
+      "hashtags": [
+        "Git",
+        "LearnGit"
+      ],
+      "cover_frame_seconds": 8
+    },
+    "Instagram Reels": {
+      "caption": "A project’s history is easier to read when you know what the lines mean. Each connection links a commit to a parent. Use the overview to locate a change worth investigating. Save this mental map for your next “when did that happen?” moment.",
+      "hashtags": [
+        "Git",
+        "DeveloperLearning"
+      ],
+      "cover_guidance": "Use the vertical artwork if the account flow supports it; otherwise choose the supplied existing frame. Check cropping in the uploader."
+    },
+    "X": {
+      "post": "When did that feature arrive? Git log gives you the history overview. The graph connects commits to parents; its spacing is not a clock. Start with the map, then investigate the relevant commit. #Git",
+      "characters": 199
+    },
+    "Patreon": {
+      "title": "Reading Git history as a map",
+      "body": "Imagine returning to a project and noticing a favorites button. You want to locate the recorded change connected to it. A history overview helps you narrow the search without opening every commit in detail.\n\nEach entry offers signposts such as a commit identity, author, date and message. A graph adds parent relationships, making splits and joins easier to understand. Those edges describe ancestry. Their visual spacing does not measure elapsed time, and parallel lanes are not an execution schedule.\n\nThe default selected history begins at the current commit and follows its ancestors. A separate unmerged branch is not automatically included; merged work can be reachable through parent links.\n\nTakeaway: find your place with the history map, then inspect a relevant commit. This lesson focuses on the overview; the companion Show lesson covers particular-commit detail.\n\nSources: https://git-scm.com/docs/git-log (DESCRIPTION, revision-range, --graph and PRETTY FORMATS).\n\nWhich feature or behavior change would you trace in your own project?\n\nNarration uses the synthetic Friendly Instructor local VoiceStudio VoxCPM2 voice. Music is original procedural audio generated locally."
+    }
+  },
+  "sources": [
+    "https://git-scm.com/docs/git-log"
+  ],
+  "covers": {
+    "vertical": "covers/cover-vertical.jpg",
+    "landscape": "covers/cover-landscape.jpg",
+    "existing_frame_seconds": 8,
+    "existing_frame_status": "Verified in encoded master at8.000s",
+    "description": "When did it arrive? A favorites commit highlighted among history signposts.",
+    "existing_frame_proof": "../evidence/encoded-master/frame-00-8s.png"
+  },
+  "delivery_paths": {
+    "candidate": "../T017-Log.mp4",
+    "transcript": "transcript.txt",
+    "srt": "captions.en.srt",
+    "vtt": "captions.en.vtt",
+    "X_candidate": "../T017-Log-X.mp4"
+  },
+  "disclosure": "Synthetic narrator, no real-person impersonation; original local procedural music. Assess platform AI disclosure controls during actual upload.",
+  "account_gaps": "No upload performed. Instagram specifications and controls pending current official/account verification; YouTube verification and thumbnail availability, TikTok cover/native captions, X actual account upload compatibility and Patreon video eligibility unresolved.",
+  "master_duration_s": 49.133333,
+  "X_derivative": {
+    "reason": "Official ordinary web portrait ceiling1200x1900; master height1920 exceeds it.",
+    "source": "https://help.x.com/es/using-x/x-videos",
+    "format": "720x1280 H264/yuv420p30fps, AAC copied, no crop/retime",
+    "status": "technically verified REVIEW_PENDING_AUDIO",
+    "duration_s": 49.133333
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "T014",
+  "topic": "Add",
+  "language": "en",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "takeaway": "Git add chooses content for the next commit, as it exists at add time.",
+  "titles": [
+    "Git add: Choose Your Next Commit",
+    "What Git add Actually Prepares",
+    "Changed It Again? Stage It Again"
+  ],
+  "platforms": {
+    "youtube": {
+      "title": "Git add: Choose Your Next Commit",
+      "description": "Stage the content you want in your next commit. Stage later edits again if you want them included.\n\nSource: https://git-scm.com/docs/git-add\nSynthetic Friendly Instructor narration; local procedural music.\n\n#Git #Shorts"
+    },
+    "tiktok": {
+      "caption": "Git add chooses the content for your next commit. Want later edits included? Stage again. #Git #LearnGit"
+    },
+    "instagram": {
+      "caption": "One commit, one clear story. Git add stages the content you choose, at add time. Stage later edits again if you want them included.\n\nWhat work would you leave out of your next commit?\n\n#Git #LearnGit"
+    },
+    "x": {
+      "post": "Git add chooses content for your next commit. Stage the checkout fix, leave the experiment out. Want later edits included? Stage again. Adding does not commit or upload. #Git"
+    },
+    "patreon": {
+      "title": "Git add: Choose the Content for Your Next Commit",
+      "post": "A checkout-button fix and an unfinished experiment can exist together in your working files. Staging lets you prepare the fix while leaving the experiment outside the next commit. You may select whole files or selected changes within a file.\n\nThe timing matters: the index holds content from the moment you add it. Stage later edits to the same file again if you want them included.\n\nTakeaway: add prepares content; commit records it. Adding does not upload.\n\nSource: https://git-scm.com/docs/git-add\n\nWhat would you put in one focused commit?\n\nNarration uses the synthetic Friendly Instructor local VoiceStudio profile. Music is original, generated procedurally on this machine."
+    }
+  },
+  "hashtags": {
+    "youtube": [
+      "Git",
+      "Shorts"
+    ],
+    "tiktok": [
+      "Git",
+      "LearnGit"
+    ],
+    "instagram": [
+      "Git",
+      "LearnGit"
+    ],
+    "x": [
+      "Git"
+    ],
+    "patreon": []
+  },
+  "sources": [
+    {
+      "url": "https://git-scm.com/docs/git-add",
+      "retrieved": "2026-10-16",
+      "section": "DESCRIPTION and --patch"
+    }
+  ],
+  "covers": {
+    "vertical": "covers/cover-vertical.jpg",
+    "landscape": "covers/cover-landscape.jpg",
+    "description": "Choose your next commit: checkout fix in, experiment out.",
+    "existing_frame_timestamp": 11.5,
+    "existing_frame_proof": "../evidence/existing-cover-frame-11.5s.jpg"
+  },
+  "delivery_paths": {
+    "master": "../T014-Add.mp4",
+    "srt": "captions.en.srt",
+    "vtt": "captions.en.vtt",
+    "transcript": "transcript.txt"
+  },
+  "x_character_count": 174,
+  "duration_seconds": 47.866667,
+  "master_sha256": "8ad0200610261f924cd416973ec2796ab24c2a98bf29e86de1ae595422d16761",
+  "audio_review": "Listening unverified; final-mix ASR misses within near23.8s, source segment correlation0.998893.",
+  "platform_derivatives": {
+    "X": {
+      "path": "../T014-Add-X.mp4",
+      "path_base": "publishing_directory",
+      "width": 720,
+      "height": 1280,
+      "duration_seconds": 47.866667,
+      "bytes": 1966731,
+      "sha256": "a742ae960179d12c8c34d58cd9f675839d6c8f2d27e4fe096c06c94ef3655fc5",
+      "audio": "AAC stream copied identically from review master",
+      "reason": "Official X web portrait height ceiling 1200x1900; whole-frame scale, no crop/retime",
+      "source": "https://help.x.com/es/using-x/x-videos",
+      "status": "REVIEW_PENDING_AUDIO"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+You fixed a checkout button, but you also have an unfinished experiment. Your next commit should tell one clear story. Git add lets you choose which changes belong in it.
+
+Adding stages the chosen file content in the index, also called the staging area. Pick the button fix and leave the experiment outside. You can even choose selected changes within one file.
+
+Here is the detail that matters. Git stages the content as it is when you add it. If you edit that same file again, stage those later edits again if you want them included.
+
+Adding prepares your next commit. It does not record that commit or upload anything. Think of it as choosing what goes into the next package before you seal it.

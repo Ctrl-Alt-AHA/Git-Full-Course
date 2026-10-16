@@ -1,0 +1,87 @@
+{
+  "id": "T015",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "duration_seconds": 50.1,
+  "candidate": "renders/review-r1.mp4",
+  "intended_export": "/Users/baswillemstijn/Movies/git/exports/Part 02 — Everyday actions and words/T015-checkout",
+  "export_performed": false,
+  "artifacts": [
+    {
+      "path": "publishing/PUBLISHING.md",
+      "bytes": 5560,
+      "sha256": "446dd608cbdf5ffe5935591750b7e99a3b9b203a3af17aa0c9413c5cd029e366"
+    },
+    {
+      "path": "publishing/artwork/cover-landscape.html",
+      "bytes": 1155,
+      "sha256": "786387239ed09052eb37d2553b12c6a83d0908b20f80f2492176f422a7e3a840"
+    },
+    {
+      "path": "publishing/artwork/cover-vertical.html",
+      "bytes": 1158,
+      "sha256": "9506a0148bff035f562644a89516fbde3988c492de22e5d04d4cdf2ecc599300"
+    },
+    {
+      "path": "publishing/captions.en.srt",
+      "bytes": 2571,
+      "sha256": "78efc307efcd8cb2fdccbd2a184bb3da7669aab584aa716e3dace98acdce390a"
+    },
+    {
+      "path": "publishing/captions.en.vtt",
+      "bytes": 2429,
+      "sha256": "13f7bca132b939e22f59adaa2e222f1aa6917ad57c45ca355f66172d24c1843a"
+    },
+    {
+      "path": "publishing/covers/cover-landscape.jpg",
+      "bytes": 78803,
+      "sha256": "97c292dcbee3d2b20f071a851d66d97a998c99dd0f7690d066ac7c008c6150dc"
+    },
+    {
+      "path": "publishing/covers/cover-vertical.jpg",
+      "bytes": 111835,
+      "sha256": "c251a880e87d87116938107cf7cb599c979fd88fc0d77b3130b3190de371cf52"
+    },
+    {
+      "path": "publishing/metadata.json",
+      "bytes": 4046,
+      "sha256": "7c77738bcb097708508d0bcbbe2445fb613b0d34f0a94b798f30922136532025"
+    },
+    {
+      "path": "publishing/transcript.txt",
+      "bytes": 784,
+      "sha256": "9e5f68115a2db7c20af3c3bb0da9b142da0c473fe4b341b85ab6cd132cdc52b7"
+    },
+    {
+      "path": "renders/review-r1.mp4",
+      "bytes": 3554907,
+      "sha256": "b17947925d8663fb8d81c7402973f7e6b391ce485b34488f305e8d472c2360c7"
+    },
+    {
+      "path": "renders/review-x-r1.mp4",
+      "revision": "r1",
+      "bytes": 2143254,
+      "sha256": "aee635fbcf3f2d79d242b2eb6b13a96aeee478b0ca27d761285175564682a80b",
+      "duration_seconds": 50.1,
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "evidence/x-compatibility/verification.json",
+      "revision": "r1",
+      "bytes": 4231,
+      "sha256": "55b4fdf59b0ba282fa9787cd609a6218ecda9beacfe293de4f8d4116f93522d0"
+    },
+    {
+      "path": "publishing/PLATFORM-NOTES.md",
+      "revision": "r1",
+      "bytes": 7471,
+      "sha256": "cc0c925364b8a086e0a57310352a8aa62e80b2a14a7a2c5f6431422571e1bd9f"
+    }
+  ],
+  "pending": [
+    "Audible listening review",
+    "Instagram current official/account-specific controls verification",
+    "Actual upload compatibility untested"
+  ],
+  "x_compatibility_derivative": "renders/review-x-r1.mp4"
+}

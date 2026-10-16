@@ -1,0 +1,122 @@
+{
+  "id": "T011",
+  "topic": "Snapshot",
+  "language": "en",
+  "revision": "review-r2",
+  "status": "REVIEW_PENDING_AUDIO",
+  "takeaway": "A Git snapshot records the chosen tracked file versions as complete project state at a point in history.",
+  "titles": {
+    "recommended": "What a Git Snapshot Actually Remembers",
+    "alternatives": [
+      "One Change. A Whole Project Version.",
+      "Git Snapshots: What Was There?"
+    ]
+  },
+  "platforms": {
+    "YouTube Shorts": {
+      "title": "What a Git Snapshot Actually Remembers",
+      "description": "Change one title on a recipe website. The next Git snapshot still describes the menu and photo too. A commit points to a complete recorded state of the tracked file versions chosen for it. Untracked files stay outside.\n\nSynthetic Friendly Instructor narration; original locally generated procedural music.\n\nWhat project would you use for your first snapshot?",
+      "hashtags": [
+        "#Git",
+        "#Shorts"
+      ],
+      "recommended_cover": "covers/cover-vertical.jpg",
+      "video": "../T011-Snapshot.mp4"
+    },
+    "TikTok": {
+      "caption": "One changed title. A whole recorded project version. That is the Git snapshot idea. Synthetic narration. What project would you try it with?",
+      "hashtags": [
+        "#Git",
+        "#LearnGit"
+      ],
+      "recommended_cover": "covers/cover-vertical.jpg",
+      "video": "../T011-Snapshot.mp4"
+    },
+    "Instagram Reels": {
+      "caption": "A snapshot tells you what was there. A change tells you what differs. In Git, a commit points to the chosen tracked file versions as a complete recorded project state. Untracked files are outside it.\n\nSynthetic narration and original procedural music. What project makes this idea click for you?",
+      "hashtags": [
+        "#Git",
+        "#DeveloperLearning"
+      ],
+      "recommended_cover": "covers/cover-vertical.jpg",
+      "video": "../T011-Snapshot.mp4"
+    },
+    "X": {
+      "post": "A Git snapshot records a whole project version: the tracked file versions chosen for a commit, including unchanged content. Changes tell you what differs; a snapshot tells you what was there. #Git",
+      "characters": 196,
+      "hashtags": [
+        "#Git"
+      ],
+      "recommended_cover": "covers/cover-vertical.jpg",
+      "video": "../T011-Snapshot-X.mp4",
+      "compatibility_source": "https://help.x.com/es/using-x/x-videos",
+      "compatibility_note": "720x1280 exact 9:16 whole-frame scale for official indexed ordinary-web portrait height limit; no crop, retime, or AAC change. Actual account upload untested."
+    },
+    "Patreon": {
+      "title": "Git snapshots: understanding a whole recorded version",
+      "post": "Imagine a recipe website with a title, menu, and photo. When you record a title change, the next snapshot still describes the unchanged menu and photo. A commit points to the tracked file versions chosen for that commit, so the recorded state makes sense as a whole.\n\nThis is a logical snapshot, not a screen image or an entire disk copy. Git can reuse unchanged content internally. Untracked files are outside the recorded state.\n\nTakeaway: changes tell you what differs; a snapshot tells you what was there.\n\nNarration uses the synthetic Friendly Instructor local voice profile. Music is generated procedurally with a local script.\n\nWhich project example helps you picture a snapshot?\n\nSources:\nhttps://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F\nhttps://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository",
+      "hashtags": [],
+      "recommended_cover": "covers/cover-landscape.jpg",
+      "video": "../T011-Snapshot.mp4"
+    }
+  },
+  "sources": [
+    "https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F",
+    "https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository"
+  ],
+  "covers": {
+    "vertical": {
+      "path": "covers/cover-vertical.jpg",
+      "width": 1080,
+      "height": 1920,
+      "description": "Snapshot headline and complete recipe-site state diagram"
+    },
+    "landscape": {
+      "path": "covers/cover-landscape.jpg",
+      "width": 1280,
+      "height": 720,
+      "description": "Recomposed headline beside recipe-site diagram"
+    },
+    "in_video_frame": {
+      "timestamp_s": 29.5,
+      "note": "Existing MP4 frame near fully revealed two-state comparison; no inserted thumbnail flash.",
+      "description": "Snapshot A and Snapshot B, highlighting the changed title and unchanged menu and photo."
+    }
+  },
+  "delivery": {
+    "video": "../T011-Snapshot.mp4",
+    "transcript": "transcript.txt",
+    "srt": "captions.en.srt",
+    "vtt": "captions.en.vtt",
+    "duration_seconds": 46.5,
+    "bytes": 4215640,
+    "sha256": "2156cadb49a130129133d65808e25a8e8eb729e1091865d6718fcbdb9389d046",
+    "status": "REVIEW_PENDING_AUDIO",
+    "x_video": "../T011-Snapshot-X.mp4",
+    "x": {
+      "path": "../T011-Snapshot-X.mp4",
+      "duration_seconds": 46.5,
+      "bytes": 2275345,
+      "sha256": "57af13be267ca34d9dd4c0d1a8d6204fff80452b7ddeb14460d86c04758ab00d",
+      "video": {
+        "codec": "h264",
+        "width": 720,
+        "height": 1280,
+        "fps": "30/1",
+        "pix_fmt": "yuv420p",
+        "frames": "1395",
+        "sample_aspect_ratio": "1:1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": 48000,
+        "channels": 2,
+        "demuxed_adts_sha256": "c1a6d017bc78f8eac15c37334a7870e66a90ac9e8e96830ff9df53c3f359e59e"
+      },
+      "faststart": true
+    },
+    "aac_identity_verified": true
+  },
+  "intended_export": "/Users/baswillemstijn/Movies/git/exports/Part 02 \u2014 Everyday actions and words/T011-snapshot",
+  "summary": "A recipe-site title changes, but its recorded menu and photo remain part of the next snapshot. A commit points to the chosen tracked versions as one complete state."
+}

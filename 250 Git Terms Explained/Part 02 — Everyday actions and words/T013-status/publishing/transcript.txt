@@ -1,0 +1,7 @@
+Before you record a bug fix, check what will actually go into the next commit. Git status gives you that report, including your current branch.
+
+Imagine three changes, a bug fix already staged, an edited note still unstaged, and a new sketch Git is not tracking. Status separates those three situations.
+
+The staged fix is prepared for the next commit. The note and sketch are outside the next commit, and one file can appear in both staged and unstaged changes if you edit it again after staging.
+
+Status only reports the situation. It does not stage your work. Read it before committing so you know what is prepared and what still needs a decision. That helps you notice a missing file before you record the change.

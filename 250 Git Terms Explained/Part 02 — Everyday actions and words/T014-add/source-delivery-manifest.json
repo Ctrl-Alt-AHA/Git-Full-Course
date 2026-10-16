@@ -1,0 +1,123 @@
+{
+  "id": "T014",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "intended_export": "/Users/baswillemstijn/Movies/git/exports/Part 02 — Everyday actions and words/T014-add",
+  "export_performed": false,
+  "accepted_master_exists": false,
+  "audio_listening": "UNVERIFIED",
+  "files": [
+    {
+      "filename": "QUALITY.md",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 7195,
+      "sha256": "409deeebc73c9b8dda0fa3ec2420498315559c818dbc4a70ca11603842ad119c"
+    },
+    {
+      "filename": "publishing/PUBLISHING.md",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 5021,
+      "sha256": "f665d3f498ca159489337be251313033bf0f3f0a25cea368ba3f25e1bb1a22fa"
+    },
+    {
+      "filename": "publishing/artwork/cover-landscape-proof.png",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 39715,
+      "sha256": "4004eb0d12867d092b17563a1e52685b0b4c31dba8cee28d9a0cce28bc5ceb26"
+    },
+    {
+      "filename": "publishing/artwork/cover-landscape.html",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 1076,
+      "sha256": "dcba31722a5ac4b167c1b35659cc5bf87bbdaa8a0eb030b1dfe6b06ef5453556"
+    },
+    {
+      "filename": "publishing/artwork/cover-vertical-proof.png",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 53652,
+      "sha256": "19af1f5d63533442886916d4d78dc7dd705c55f0615ce188a17c330451146bf0"
+    },
+    {
+      "filename": "publishing/artwork/cover-vertical.html",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 1063,
+      "sha256": "09a26beee5bace9a3739fd12d1b1ac8dc67f241ea09d3a366e487fe4f8e4035a"
+    },
+    {
+      "filename": "publishing/captions.en.srt",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 2453,
+      "sha256": "83e83f3a4ed64747d6f935a84253e231d254ffc07537d132d79e4f47e0f215a8"
+    },
+    {
+      "filename": "publishing/captions.en.vtt",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 2314,
+      "sha256": "2b66c3ea58073f862a2a149c0c5dce425b9afd34444bcebdef1999db0667c3ed"
+    },
+    {
+      "filename": "publishing/covers/cover-landscape.jpg",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 57262,
+      "sha256": "ce1bd1234d84234d0f457e95f022cb5ac89a9217d26226bc644d0d00ae6b024a"
+    },
+    {
+      "filename": "publishing/covers/cover-vertical.jpg",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 80989,
+      "sha256": "3f438d320e1ccfc0d3464b74fd3a869a307b190d36e3c0d566b0a8273bfa5244"
+    },
+    {
+      "filename": "publishing/metadata.json",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 3793,
+      "sha256": "5274ce29a751fc02143c0a4012d020807b6647aafcdab5b7d163b3a0472135e8"
+    },
+    {
+      "filename": "publishing/transcript.txt",
+      "revision": "r1",
+      "duration_seconds": null,
+      "bytes": 698,
+      "sha256": "2d6d6c9cbdc510ad5d0fae1f4970dab868048089bb6f25545b60b66784faa293"
+    },
+    {
+      "filename": "renders/review-r1.mp4",
+      "revision": "r1",
+      "duration_seconds": 47.866667,
+      "bytes": 3231757,
+      "sha256": "8ad0200610261f924cd416973ec2796ab24c2a98bf29e86de1ae595422d16761"
+    },
+    {
+      "filename": "renders/review-x-r1.mp4",
+      "revision": "r1",
+      "bytes": 1966731,
+      "sha256": "a742ae960179d12c8c34d58cd9f675839d6c8f2d27e4fe096c06c94ef3655fc5",
+      "duration_seconds": 47.866667,
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "filename": "evidence/x-compatibility/verification.json",
+      "revision": "r1",
+      "bytes": 4277,
+      "sha256": "f040fb298debe3983479ac225a70dd49fdcc889ed39764c5e3ac5392743b6fba"
+    },
+    {
+      "filename": "publishing/PLATFORM-NOTES.md",
+      "revision": "r1",
+      "bytes": 7471,
+      "sha256": "cc0c925364b8a086e0a57310352a8aa62e80b2a14a7a2c5f6431422571e1bd9f"
+    }
+  ],
+  "x_compatibility_derivative": "renders/review-x-r1.mp4"
+}

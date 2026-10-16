@@ -1,0 +1,7 @@
+That old help page is no longer useful. You delete it from your folder. But that deletion still needs to be prepared for the next commit. The folder and the next snapshot are different views.
+
+For a tracked file, Git’s removal command normally removes the working copy and its entry in the staging area, also called the index. The next commit is prepared to leave that page out.
+
+Another form keeps the local file while removing its entry from the index. A file can stay in your folder without being included in the next commit.
+
+Neither form makes a commit for you. Earlier commits still contain the page they recorded. Removing a file now does not erase its history. Think. Prepare its absence, then commit.

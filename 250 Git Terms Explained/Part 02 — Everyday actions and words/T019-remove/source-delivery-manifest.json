@@ -1,0 +1,65 @@
+{
+  "id": "T019",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "duration_seconds": 46.266667,
+  "intended_export": "/Users/baswillemstijn/Movies/git/exports/Part 02 \u2014 Everyday actions and words/T019-remove",
+  "exported": false,
+  "files": [
+    {
+      "path": "renders/review-r1.mp4",
+      "bytes": 3001332,
+      "sha256": "3fac3f7b51b3c1e053b2614bfa7680b8016e3e4e01c070b94d453753340869d4"
+    },
+    {
+      "path": "renders/review-x-r1.mp4",
+      "bytes": 1879212,
+      "sha256": "4fa5bef8ffaec3a444425bdd3e3f7ccef0acb77eda16cd00ecdfdda2a3522693"
+    },
+    {
+      "path": "publishing/PUBLISHING.md",
+      "bytes": 5510,
+      "sha256": "daa97201af12720222c6400a1b82b42b14efdd3c8bba9d3779997326c79baed8"
+    },
+    {
+      "path": "publishing/metadata.json",
+      "bytes": 4407,
+      "sha256": "6893d4ab11be672af25d99207fca861847b5a1a3e7f12bceda7e1966333966e5"
+    },
+    {
+      "path": "publishing/transcript.txt",
+      "bytes": 712,
+      "sha256": "c4e2d2edbd49e1314bfd22d90e5c365d3925b99dcd659944e8d82a71adb593e3"
+    },
+    {
+      "path": "publishing/captions.en.srt",
+      "bytes": 2638,
+      "sha256": "1f8406d0609ef8b369ff52bcf3122459b6a829d125fc1aaea35300ef4509d6a2"
+    },
+    {
+      "path": "publishing/captions.en.vtt",
+      "bytes": 2484,
+      "sha256": "431729d274ffa0ff4e63cfea09bf3ef3f9e6cb4d08a317cffa1e9daa8f47a633"
+    },
+    {
+      "path": "publishing/covers/cover-vertical.jpg",
+      "bytes": 88950,
+      "sha256": "5ee4e3fd1f844c1fbb9bb6e24d624980a96a0b2ea07dd3b8bbc49fb3fdfbd2a8"
+    },
+    {
+      "path": "publishing/covers/cover-landscape.jpg",
+      "bytes": 65259,
+      "sha256": "a9cdadef9c3f8bf71bab3bb7b4419878936ed84926d59153bce5d21e2a23c6d0"
+    },
+    {
+      "path": "publishing/artwork/cover-vertical.html",
+      "bytes": 1218,
+      "sha256": "88a39a3c2d795cdfd1f54a2eca6f058c485cbd9d5be76f0cc9d68b83b5de2ef7"
+    },
+    {
+      "path": "publishing/artwork/cover-landscape.html",
+      "bytes": 1209,
+      "sha256": "9763944e7de277e9a62d5ff311926db55002824ed5d2894f8b34ab0c2b53c723"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "T013",
+  "topic": "Git status",
+  "language": "en",
+  "revision": "review-r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "takeaway": "Git status reports what is prepared for the next commit and what remains outside; it does not stage content.",
+  "titles": {
+    "recommended": "Git status: Know What Your Next Commit Includes",
+    "alternatives": [
+      "Read Your Changes Before You Commit",
+      "Staged, Unstaged, Untracked — Git Status Explained"
+    ]
+  },
+  "platforms": {
+    "youtube": {
+      "title": "Git status: Know What Your Next Commit Includes",
+      "description": "Before recording a bug fix, check what is prepared for the next commit. This beginner lesson explains staged, unstaged and untracked changes—and why reading status does not stage anything.\n\nSynthetic Friendly Instructor narration generated locally. Original procedural music.\nSource: https://git-scm.com/docs/git-status\n\nWhich state do you forget to check?",
+      "hashtags": [
+        "Git",
+        "Shorts"
+      ]
+    },
+    "tiktok": {
+      "caption": "Three changes, three states. Git status helps you see what is prepared before you commit. Which state surprises you most?",
+      "hashtags": [
+        "Git",
+        "LearnGit"
+      ],
+      "cover_frame_timestamp_s": 20.4
+    },
+    "instagram": {
+      "caption": "Before your next commit, read the situation: staged, unstaged, untracked. Git status reports what is prepared; it does not stage work. Which state do you double-check?",
+      "hashtags": [
+        "Git",
+        "DeveloperTips"
+      ]
+    },
+    "x": {
+      "text": "Before your next commit, read Git status: what is staged, what is still unstaged, and what is untracked. It reports the situation without staging your work. Which state catches you out most often? #Git",
+      "characters": 201
+    },
+    "patreon": {
+      "title": "Git status: Read the Situation Before Committing",
+      "post": "Imagine you have prepared a bug fix, edited a note, and created a sketch. These changes need different decisions. Git status reports what is staged for the next commit, what has changed since staging, and what is untracked. A file can even have both a staged version and later unstaged edits.\n\nTakeaway: read the report before committing. Status does not select or stage content for you.\n\nWhat do you usually discover when you check status?\n\nSource: https://git-scm.com/docs/git-status\n\nNarration uses a synthetic local Friendly Instructor voice. The focused music was generated procedurally, locally."
+    }
+  },
+  "sources": [
+    "https://git-scm.com/docs/git-status"
+  ],
+  "covers": {
+    "vertical": {
+      "path": "publishing/covers/cover-vertical.jpg",
+      "width": 1080,
+      "height": 1920,
+      "description": "Three statuses with staged fix highlighted; headline: ready for the next commit?"
+    },
+    "landscape": {
+      "path": "publishing/covers/cover-landscape.jpg",
+      "width": 1280,
+      "height": 720,
+      "description": "Recomposed headline left and status diagram right"
+    },
+    "in_video_timestamp_s": 20.4,
+    "in_video_frame": "evidence/in-video-cover-20.4s.jpg"
+  },
+  "delivery_paths": {
+    "candidate": "T013-Status.mp4",
+    "transcript": "publishing/transcript.txt",
+    "srt": "publishing/captions.en.srt",
+    "vtt": "publishing/captions.en.vtt"
+  },
+  "platform_notes": {
+    "verification_date": "2026-10-16",
+    "shared_notes": "repository/videos/part-02-production/PLATFORM-NOTES.md",
+    "account_uploads_tested": false,
+    "instagram_official_limits_and_controls": "unverified: official fetch error",
+    "narrator_disclosure": "Synthetic human-sounding local narrator; apply TikTok AI-generated-content label and assess current YouTube AI use setting in upload flow.",
+    "music_provenance": "Local original procedural focused generator; not an AI music model.",
+    "sidecars": "English SRT/VTT; native uploader support and duplicate burned-in captions must be checked."
+  },
+  "duration_seconds": 46.766667,
+  "path_base": "project_root",
+  "platform_derivatives": {
+    "X": {
+      "path": "../T013-Status-X.mp4",
+      "path_base": "publishing_directory",
+      "width": 720,
+      "height": 1280,
+      "duration_seconds": 46.766667,
+      "bytes": 2074388,
+      "sha256": "f51315918e1314a287bc7cec8f754a847741463ef10a2d64cad2df1df998b83c",
+      "audio": "AAC stream copied identically from review master",
+      "reason": "Official X web portrait height ceiling 1200x1900; whole-frame scale, no crop/retime",
+      "source": "https://help.x.com/es/using-x/x-videos",
+      "status": "REVIEW_PENDING_AUDIO"
+    }
+  }
+}

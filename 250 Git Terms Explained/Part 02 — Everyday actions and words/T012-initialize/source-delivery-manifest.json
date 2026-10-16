@@ -1,0 +1,114 @@
+{
+  "id": "T012",
+  "revision": "review-r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "intended_export": "/Users/baswillemstijn/Movies/git/exports/Part 02 — Everyday actions and words/T012-initialize",
+  "duration_seconds": 52.333333,
+  "files": [
+    {
+      "path": "renders/review-r1.mp4",
+      "bytes": 3574066,
+      "sha256": "77b0ec0c62439c49917c0029fc194067b2af8d08a916e996b65354cb31e3691c"
+    },
+    {
+      "path": "QUALITY.md",
+      "bytes": 8258,
+      "sha256": "2f4f4fc926ecb4962ca7671836061491e2a12c410b9ac632405826fd923c6963"
+    },
+    {
+      "path": "evidence/final-render-source-hashes.json",
+      "bytes": 2543,
+      "sha256": "0c73b7a0c0351d13a4aae027e05159666238a385cca5f660090bbe64b4dc1d67"
+    },
+    {
+      "path": "evidence/strict-final.json",
+      "bytes": 2101,
+      "sha256": "a1bafb9d80e754cd0b3b940392cf9b7d624a7c926829fce11d2ed95e882f03c1"
+    },
+    {
+      "path": "evidence/technical.json",
+      "bytes": 4807,
+      "sha256": "b7bafbb7202e2bd81b57779ab56c8a471b345a9cf005d9035ccf6cd0e19531da"
+    },
+    {
+      "path": "publishing/PLATFORM-NOTES.md",
+      "bytes": 7471,
+      "sha256": "cc0c925364b8a086e0a57310352a8aa62e80b2a14a7a2c5f6431422571e1bd9f"
+    },
+    {
+      "path": "publishing/PUBLISHING.md",
+      "bytes": 5876,
+      "sha256": "02b946ddbec95b03bb7dff1892f5e0f4db1153a23670f866fffe9c688c34aa85"
+    },
+    {
+      "path": "publishing/artwork/cover-landscape-proof.png",
+      "bytes": 39627,
+      "sha256": "15e9ef3b7171a27c7008f0ab0158da89583d7177554ce2bd3fd97b40818c92da"
+    },
+    {
+      "path": "publishing/artwork/cover-landscape.html",
+      "bytes": 1525,
+      "sha256": "e8f8f4655f0380c3760b24cb499ed0d4d64e6da503a0bde95d1c9566b8c046bf"
+    },
+    {
+      "path": "publishing/artwork/cover-vertical-proof.png",
+      "bytes": 60071,
+      "sha256": "ffa615c8b876c7ee9657da534513f65f97b654c0d5aa361b38500d8eae607393"
+    },
+    {
+      "path": "publishing/artwork/cover-vertical.html",
+      "bytes": 1528,
+      "sha256": "182313907dfdb42b3f9aef27c7a9aca42b9c276bf1f2fc3962350e7253b0b0e2"
+    },
+    {
+      "path": "publishing/captions.en.srt",
+      "bytes": 2514,
+      "sha256": "ab160d9f124a3ef560cd7fa19dcf928f7d7a83d2a2ab5fa9b2617d62ec7cdbae"
+    },
+    {
+      "path": "publishing/captions.en.vtt",
+      "bytes": 2378,
+      "sha256": "6f01255aceb0cfbbd0e4f7a6b689ff2c4152aa85e6e469b30f34f9e5fb9cb574"
+    },
+    {
+      "path": "publishing/covers/cover-landscape.jpg",
+      "bytes": 56164,
+      "sha256": "930556330737f718838dc78b6ef414a2865409da551dd1ab52f8276aa5dac116"
+    },
+    {
+      "path": "publishing/covers/cover-vertical.jpg",
+      "bytes": 89894,
+      "sha256": "d78b4fd0b134f085449907f1b4e3b115fac01b129bafaefc9264a2e30851d209"
+    },
+    {
+      "path": "publishing/covers/video-frame-09s.jpg",
+      "bytes": 77730,
+      "sha256": "a9dd03a74804de24740f2f9ec4c7c925d6288383458e1f0b59d3f8e062c025f9"
+    },
+    {
+      "path": "publishing/metadata.json",
+      "bytes": 4912,
+      "sha256": "d88708ed0972be841d0ef2d87b250b2dbaa707575b02ca198fe248c50d129a73"
+    },
+    {
+      "path": "publishing/transcript.txt",
+      "bytes": 798,
+      "sha256": "1861f0d4f61aa22f0266a9f89bc40fa48f49b35837dece5fdcc254e4b5c5997d"
+    },
+    {
+      "path": "renders/review-x-r1.mp4",
+      "revision": "review-r1",
+      "bytes": 2143119,
+      "sha256": "d2e02ebd70f4fca45f7fd6fa59aee114803fb1ca8903ec60cc9c81e57699271c",
+      "duration_seconds": 52.333333,
+      "status": "REVIEW_PENDING_AUDIO"
+    },
+    {
+      "path": "evidence/x-compatibility/verification.json",
+      "revision": "review-r1",
+      "bytes": 4296,
+      "sha256": "8c0ea388e78eca35011025b657ec1cf8023f12a0a09fb7bbdcc5f989b334ee72"
+    }
+  ],
+  "x_compatibility_derivative": "renders/review-x-r1.mp4"
+}

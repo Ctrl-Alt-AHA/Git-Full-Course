@@ -1,0 +1,106 @@
+{
+  "id": "T019",
+  "topic": "Remove — git rm",
+  "language": "en",
+  "revision": "r1",
+  "status": "REVIEW_PENDING_AUDIO",
+  "takeaway": "Prepare tracked-file absence for the next commit; earlier commits retain recorded content.",
+  "titles": {
+    "recommended": "Removing a file in Git: what actually changes?",
+    "alternatives": [
+      "Gone from the folder, still in the next commit?",
+      "Git removal: prepare the absence"
+    ]
+  },
+  "summary": "Retire an outdated help page while separating folder presence, staged content and recorded history.",
+  "platforms": {
+    "youtube": {
+      "title": "Removing a file in Git: what actually changes?",
+      "description": "Deleting a help page from the folder and preparing its removal are different. See how the working copy and index determine the next commit, and why earlier commits still retain recorded content.\n\nSources: https://git-scm.com/docs/git-rm\nhttps://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F\n\n#Git #Shorts",
+      "hashtags": [
+        "Git",
+        "Shorts"
+      ]
+    },
+    "tiktok": {
+      "caption": "The old help page is gone. Is its removal prepared for the next commit? Here’s the difference. #Git #LearnGit",
+      "hashtags": [
+        "Git",
+        "LearnGit"
+      ],
+      "cover_frame_seconds": 22.0
+    },
+    "instagram": {
+      "caption": "Retiring an old help page? Your project folder, staging area and earlier commits each tell a different part of the story. Save this distinction for your next cleanup. #Git #DeveloperLearning",
+      "hashtags": [
+        "Git",
+        "DeveloperLearning"
+      ]
+    },
+    "x": {
+      "post": "A file can disappear from your folder while its old content remains in the index. git rm prepares a tracked file’s absence for the next commit. Earlier commits keep their recorded content. #Git",
+      "characters": 193,
+      "hashtags": [
+        "Git"
+      ],
+      "delivery": "T019-Remove-X.mp4"
+    },
+    "patreon": {
+      "title": "Removing a file: the folder, the index and history",
+      "body": "Retiring an outdated help page involves two different places: your working folder and the index, which prepares the next commit. Ordinary folder deletion can leave the old index entry in place. Git’s removal command normally removes both the working copy and its index entry. The cached-only form removes the index entry while leaving the local file alone.\n\nNo commit happens automatically. Earlier commits retain the content they recorded; removing a file now does not erase its history.\n\nTakeaway: prepare the absence, then commit.\n\nSources:\nhttps://git-scm.com/docs/git-rm\nhttps://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F\n\nWhich distinction surprised you: local presence, staged content, or recorded history?"
+    }
+  },
+  "sources": [
+    {
+      "title": "Git git-rm manual",
+      "url": "https://git-scm.com/docs/git-rm"
+    },
+    {
+      "title": "Pro Git: What is Git?",
+      "url": "https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F"
+    }
+  ],
+  "covers": {
+    "vertical": "publishing/covers/cover-vertical.jpg",
+    "landscape": "publishing/covers/cover-landscape.jpg",
+    "editable": [
+      "publishing/artwork/cover-vertical.html",
+      "publishing/artwork/cover-landscape.html"
+    ],
+    "frame_seconds": 22.0
+  },
+  "delivery": {
+    "master": "T019-Remove.mp4",
+    "x": "T019-Remove-X.mp4",
+    "transcript": "publishing/transcript.txt",
+    "srt": "publishing/captions.en.srt",
+    "vtt": "publishing/captions.en.vtt"
+  },
+  "provenance": {
+    "narrator": "Synthetic Friendly Instructor, local VoiceStudio VoxCPM2; not the user’s voice.",
+    "music": "Original procedural local NumPy focused bed; not an AI music model."
+  },
+  "delivery_details": {
+    "master": {
+      "decode": "pass",
+      "faststart": true,
+      "boxes": [
+        "ftyp",
+        "moov",
+        "free",
+        "mdat"
+      ],
+      "duration": "46.266667",
+      "bytes": 3001332,
+      "sha256": "3fac3f7b51b3c1e053b2614bfa7680b8016e3e4e01c070b94d453753340869d4"
+    },
+    "x": {
+      "duration_seconds": 46.266667,
+      "bytes": 1879212,
+      "sha256": "4fa5bef8ffaec3a444425bdd3e3f7ccef0acb77eda16cd00ecdfdda2a3522693",
+      "aac_stream_copy_identical": true,
+      "whole_frame_scale": "720x1280; no crop/retime",
+      "status": "REVIEW_PENDING_AUDIO"
+    }
+  }
+}
